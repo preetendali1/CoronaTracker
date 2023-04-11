@@ -50,7 +50,7 @@ Or install via [brew](http://brew.sh):
 Please feel free to contribute pull requests or create issues for bugs and feature requests.
 
 ## Author
-Mhd Hejazi <a href="https://twitter.com/intent/follow?screen_name=Hejazi"><img src="https://img.shields.io/badge/@hejazi-x?color=08a0e9&logo=twitter&logoColor=white" valign="middle" /></a> (contact@samabox.com)
+Mhd Hejazi <a href="https://twitter.com/preetendali"><img src="https://img.shields.io/badge/@hejazi-x?color=08a0e9&logo=twitter&logoColor=white" valign="middle" /></a> (contact@samabox.com)
 
 ## Credits
 ### Data
