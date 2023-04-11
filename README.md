@@ -3,7 +3,7 @@
 ![iOS](https://img.shields.io/badge/iOS-10%20-blue)
 ![macOS](https://img.shields.io/badge/macOS-10.15-blue)
 ![Swift](https://img.shields.io/badge/Swift-5-orange?logo=Swift&logoColor=white)
-<a href="https://twitter.com/intent/follow?screen_name=Hejazi"><img src="https://img.shields.io/badge/@hejazi-x?color=08a0e9&logo=twitter&logoColor=white" /></a>
+<a href="https://twitter.com/preetendali"><img src="https://img.shields.io/badge/@preetendali-x?color=08a0e9&logo=twitter&logoColor=white" /></a>
 
 ![image](https://user-images.githubusercontent.com/121827/77246699-e25efb80-6c3a-11ea-8a49-30bd87ff33c0.png)
 
@@ -50,7 +50,7 @@ Or install via [brew](http://brew.sh):
 Please feel free to contribute pull requests or create issues for bugs and feature requests.
 
 ## Author
-Mhd Hejazi <a href="https://twitter.com/preetendali"><img src="https://img.shields.io/badge/@hejazi-x?color=08a0e9&logo=twitter&logoColor=white" valign="middle" /></a> (contact@samabox.com)
+preetendali <a href="https://twitter.com/preetendali"><img src="https://img.shields.io/badge/@hejazi-x?color=08a0e9&logo=twitter&logoColor=white" valign="middle" /></a> (contact@samabox.com)
 
 ## Credits
 ### Data
