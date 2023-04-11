@@ -38,7 +38,7 @@
 4. Build & run!
 
 ### 2. macOS App
-[Download the latest release](https://github.com/mhdhejazi/CoronaTracker/releases/latest) for macOS.
+[Download the latest release](https://github.com/preetendali1/CoronaTracker) for macOS.
 
 Or install via [brew](http://brew.sh):
 
